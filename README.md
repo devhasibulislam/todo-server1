@@ -1,4 +1,5 @@
-# Job replacement skill assessment task (JPSAT || jpsat)
+# Job replacement skill assessment task (jpsat)
+* JavaScript code repo link: [click here](https://github.com/hasibulislam999/job-placement-skill-assessment-task)
 
 ## 4 questions on direct JavaScript problem solving:
 1. Create a function that will find the factorial number of 9 using recursion.
