@@ -2,7 +2,6 @@
 
 function duplicate(arr) {
     arr.sort(function (a, b) { return a - b });
-    /* 1 5 5 9 9 13 14 20 22 22 25 48 */
 
     let available = null, count = 0;
 
