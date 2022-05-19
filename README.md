@@ -1,6 +1,8 @@
 # Job replacement skill assessment task (jpsat)
 * JavaScript code repo link: [click here](https://github.com/hasibulislam999/job-placement-skill-assessment-task)
 * JavaScript code docx link: [click here](https://docs.google.com/document/d/1DcfSYHqr8gkwXdhfFjy99AdSKAE4w7dH/edit?usp=sharing&ouid=103878912590678186325&rtpof=true&sd=true)
+* Todo list live site: [click here](https://todo-app-fe075.web.app/)
+* Todo list server site: [click here](https://arcane-castle-73517.herokuapp.com/)
 
 ## 4 questions on direct JavaScript problem solving:
 1. Create a function that will find the factorial number of 9 using recursion.

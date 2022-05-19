@@ -23,7 +23,6 @@ async function run() {
         /**
          * naming conventions are:
          * app.get('/list', async(req, res))
-         * app.get('/list?email=***', async(req, res))
          * app.post('/list', async(req,res))
          * app.delete('/list/:id', async(req, res))
          */
